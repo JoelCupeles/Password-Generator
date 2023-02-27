@@ -1,6 +1,6 @@
-## Password Generator
+# Password Generator
 
-# Description
+## Description
 This project is a password generator that creates a strong and secure password for users who need access to sensitive data. The user can specify the length of the password and which character types to include, such as lowercase letters, uppercase letters, numbers, and special characters. The generated password is then displayed on the page.
 
 ## Installation
@@ -21,4 +21,4 @@ This project is licensed under the MIT License.
 3. Character type selection
 
 ## Links
-![]() 
+![](Develop/password-generator_Develop_index.html.png) 
