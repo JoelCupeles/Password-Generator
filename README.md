@@ -23,4 +23,4 @@ This project is licensed under the MIT License.
 ## Links
 https://joelcupeles.github.io/Password-Generator/
 
-![](Develop/password-generator_Develop_index.html.png) 
+![](Assets/password-generator_Develop_index.html.png) 
